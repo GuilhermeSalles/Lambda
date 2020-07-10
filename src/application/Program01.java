@@ -19,7 +19,7 @@ public class Program01 {
 		for (Product p : list) {
 			System.out.println(p);
 		}
-		
+		 
 	}
 
 }
