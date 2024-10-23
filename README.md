@@ -1,5 +1,6 @@
 
 # 🧠 Lambda em Java
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/GuilhermeSalles/Lambda/blob/master/LICENSE) 
 
 Este projeto demonstra como usar expressões lambda em Java e por que elas são tão úteis no nosso dia a dia de programação.
 
